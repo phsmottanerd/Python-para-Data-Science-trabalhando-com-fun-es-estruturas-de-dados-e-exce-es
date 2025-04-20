@@ -56,6 +56,6 @@ Obrigado à equipe da **Alura** e ao projeto **Oracle Next Education (ONE)** por
 
 📌 *Repositório criado com carinho por **Paulo Henrique Santana Motta***  
 🔗 Me acompanhe no LinkedIn: [linkedin.com/in/paulohmotta](https://linkedin.com/in/paulohmotta)  
-📍 Brasília - DF
+📍 Rio De Janeiro -Rj
 
 ---
